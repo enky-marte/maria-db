@@ -11,3 +11,5 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2KV5O2ZgIAEX4tIzp
 https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpsNJE2ILwiqxXF9vNP-UTlbRf5DYOfMb7LU8rZej192)/dm/3/x84eirw/d/live-2.m3u8
 #EXTINF:-1 ,BOL: CN RED UNO
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu4OyMvnsYd2X5ssEIRKPmxc5IuX0T0jOnYq6_fUlJK2)/dm/3/x825whp/d/live-2.m3u8
+#EXTINF:-1 ,BOL: CN PAT
+https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
